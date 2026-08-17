@@ -6,3 +6,19 @@ secrets*
 *.sqlite3
 __pycache__/
 *.pyc
+
+# Fitness data (personal)
+*.csv
+workouts.*
+
+# Generated files (don't commit build artifacts)
+*.pptx
+*.png
+*.jpg
+img/
+logo.png
+job.json
+result.pptx
+
+# Logs
+*.log
